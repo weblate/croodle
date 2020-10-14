@@ -28,7 +28,7 @@
     "broccoli-asset-rev": "^3.0.0",
     "ember-auto-import": "^1.5.3",
     "ember-awesome-macros": "^6.0.0",
-    "ember-bootstrap": "^3.0.0",
+    "ember-bootstrap": "^4.0.0",
     "ember-bootstrap-cp-validations": "^2.0.0",
     "ember-classic-decorator": "^1.0.5",
     "ember-cli": "~3.15.1",

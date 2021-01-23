@@ -94,9 +94,14 @@ errors:
     inclusion: '{description} er ikke en del av listen'
     description: Dette feltet
     answerRequired: Et svar må velges
+    invalid: '{description} har ikke en gyldig verdi'
+    wrongLength: '{description} har feil lengde, den må være {is} tegn'
+    wrongDateFormat: '{description} må være i {date}-format'
 pollTypes:
     makeAPoll:
         label: Jeg ønsker å besvare spørsmålet. (f.eks. «Hvor svarer kaffen best?»)
+    findADate:
+        label: Jeg ønsker å finne en dato (f.eks. tid og dato for et møte)
 modal:
     save-retry:
         title: Kunne ikke lagre.
